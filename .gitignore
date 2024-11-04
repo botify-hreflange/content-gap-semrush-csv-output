@@ -34,8 +34,8 @@ env/
 *~
 
 # Project specific
-inputs/
-logs/
+inputs/*
+logs/*
 *.xlsx
 *.xls
 *.csv
